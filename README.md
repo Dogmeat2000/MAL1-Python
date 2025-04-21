@@ -3,5 +3,5 @@
 2. [Assignment 2: Car Price data evaluation](Assignment%202/Assignment_2.ipynb)
 3. [Assignment 3: Candidate Test Analysis - Part 1](Assignment%203/2.%20Candidate%20Test%202022%20I.ipynb)
 4. [Assignment 4: Mushroom Foraging Analysis](Assignment%204/4.%20Mushroom%20foraging.ipynb)
-5. N/A
+5. [Assignment 5: Sentiment Analysis](Assignment%205/5.%20Neural%20networks%20I%20-%20Sentiment%20analysis.ipynb)
 6. N/A
