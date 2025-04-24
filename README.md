@@ -4,4 +4,4 @@
 3. [Assignment 3: Candidate Test Analysis - Part 1](Assignment%203/2.%20Candidate%20Test%202022%20I.ipynb)
 4. [Assignment 4: Mushroom Foraging Analysis](Assignment%204/4.%20Mushroom%20foraging.ipynb)
 5. [Assignment 5: Sentiment Analysis](Assignment%205/5.%20Neural%20networks%20I%20-%20Sentiment%20analysis.ipynb)
-6. N/A
+6. [Assignment 6: Candidate Test 2022 Analysis - Part 2](Assignment%206/6.%20Candidate%20Test%202022%20II.ipynb)
